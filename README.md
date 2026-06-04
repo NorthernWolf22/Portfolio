@@ -8,7 +8,8 @@
 <h2>Leaf - example e-commerce website</h2>
 <p>A fully‑designed and engineered multi‑page website for a fictional houseplant retailer, built to demonstrate modular UI architecture, design‑system thinking, and scalable front‑end engineering. This project is based on a detailed Figma design system and implemented using React, Vite, SCSS (BEM), and React Router v6.</p>
 
-![Leaf demo](./assets/homepage.gif)
+<img src="./assets/homepage.gif" width="600" alt="Leaf homepage">
+
 
 <h3>Project repository link:</h3> 
 <p>https://github.com/NorthernWolf22/Leaf-example-website</p>
