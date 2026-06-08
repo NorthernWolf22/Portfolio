@@ -43,7 +43,7 @@
 
 <h2>Example React / Typescript form</h2>
 
-<p>I have developed a responsive React and TypeScript CRUD application using a modular structure with reusable components and state management. Custom type alias', prop type alias', function parameter and event type checks ensure application wide type safety.</p>
+<p>I have developed a responsive React and TypeScript CRUD application using a modular structure with reusable components and state management. Custom type aliases, prop type aliases, function parameter and event type checks ensure application wide type safety.</p>
 
 </br>
 <img src="./assets/example-react-ts-form.gif" width="450" alt="Example react typescript app">
