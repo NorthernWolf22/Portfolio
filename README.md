@@ -41,6 +41,42 @@
 </ul>
 
 
+<h2>Example React / Typescript form</h2>
+
+<p>I have developed a responsive React and TypeScript CRUD application using a modular structure with reusable components and state management. Custom type alias', prop type alias', function parameter and event type checks ensure application wide type safety.</p>
+
+</br>
+<img src="./assets/example-react-ts-form.gif" width="450" alt="Example react typescript app">
+</br>
+
+<h3>Project repository link:</h3> 
+<p>https://github.com/NorthernWolf22/Example-react-ts-form</p>
+
+<h3>Tech stack:</h3>
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?logo=buffer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 
 
+<h3>Skills demonstrated:</h3> 
+<ul>
+  <li>Modular, scalable component based UI architecture</li>
+  <li>Developed a React and TypeScript CRUD application using strongly typed components and state management</li>
+  <li>Created custom TypeScript type aliases and reusable prop types to enforce type safety across the application.</li>
+  <li>Implemented typed React event handling (ChangeEvent, SubmitEvent) and callback props.</li>
+  <li>Used generic types with React Hooks (useState< Student[]>) to manage strongly typed collections.</li>
+  <li>Built reusable form and button components by extending native React HTML attribute types.</li>
+  <li>Applied TypeScript features including type inference, intersection types, optional properties, typed arrays, function typing and compile-time prop validation</li>
+  <li>Implemented dynamic list rendering, state updates, filtering, form handling and UUID-based record creation.</li>
+  <li>Clean SCSS structure utilising primitive and semantic variables and BEM methodology</li>
+  <li>Accessibility considerations such as colour contrast and form label to input association</li>
+</ul>
