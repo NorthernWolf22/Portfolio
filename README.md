@@ -80,3 +80,37 @@
   <li>Clean SCSS structure utilising primitive and semantic variables and BEM methodology</li>
   <li>Accessibility considerations such as colour contrast and form label to input association</li>
 </ul>
+
+
+<h2>Wordle game</h2>
+
+<p>This project is a Wordle-inspired word guessing game built with React and Vite. The application retrieves a random five-letter word from a local API and challenges users to guess it within six attempts with colour-coded feedback. State management is handled using React Hooks, with a custom hook encapsulating the game's core logic. The application also demonstrates asynchronous data fetching, component-based architecture, event handling, conditional rendering, and reusable UI design patterns.</p>
+
+</br>
+<img src="./assets/wordle-gameplay.gif" width="450" alt="Example of wordle gameplay">
+</br>
+
+<h3>Project repository link:</h3> 
+<p>https://github.com/NorthernWolf22/wordle.git</p>
+
+<h3>Tech stack:</h3>
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+<h3>Skills demonstrated:</h3> 
+<ul>
+  <li><p>React & Vite application development.</p></li>
+  <li><p>Custom Hooks and state management with React.</p></li>
+  <li><p>Component-based architecture and reusable UI design.</p></li>
+  <li><p>Asynchronous API integration using the Fetch API.</p></li>
+  <li><p>Keyboard event handling and DOM event listener management.</p></li>
+  <li><p>Conditional rendering and dynamic user feedback.</p></li>
+  <li><p>Game logic implementation and input validation.</p></li>
+</ul>
