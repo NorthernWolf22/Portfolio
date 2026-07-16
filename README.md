@@ -1,9 +1,58 @@
 # Portfolio
 
 <div>Hi, I'm Clare - Front-end developer.</div>
-<p>I specialise in building scalable, accessible, and maintainable front-end websites using React, Vite and SCSS. Below is a curated selection of my work.</p>
+<p>I specialise in developing scalable, accessible, and maintainable web applications using React with TypeScript, the Next.js framework, Zod for schema validation, and Prisma ORM with PostgreSQL, supported by a robust SCSS architecture. Below is a curated selection of my work.</p>
+
+</br>
 
 <h1>Featured projects</h1>
+
+</br>
+<h2>NCOA example Website</h2>
+
+<p>NCOA is a fictional full‑stack sports club website built with Next.js and TypeScript, showcasing modern UI patterns, accessibility, and scalable component architecture. All site data is stored in a PostgreSQL database and accessed through Prisma ORM, enabling dynamic content rendering across multiple pages. The project uses Zod for both client‑ and server‑side validation, ensuring safe, structured data before it reaches the database. A modular React component system, atomic spacing scale, and strong TypeScript typing support maintainability, consistency, and long‑term scalability. Accessibility is integrated throughout, with semantic HTML, responsive layouts, keyboard support, clear validation feedback, and appropriate colour contrast.</p>
+
+</br>
+<img src="./assets/archery-club-website.gif" width="450" alt="Example of NCOA website">
+</br>
+
+<h3>Project repository link:</h3> 
+<p>https://github.com/NorthernWolf22/NCOA-website.git</p>
+
+<h3>Tech stack:</h3>
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-000000?logo=buffer&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+<h3>Skills demonstrated:</h3> 
+<ul>
+  <li>Next.js and typescript full stack website</li>
+  <li>Dynamic routing using an id parameter</li>
+  <li>Server side API route handling</li>
+  <li>CLient and server components</li>
+  <li>Zod validation client and server side</li>
+  <li>Prisma, a type-safe object relational mapper which maps TypeScript models to PostgreSQL tables</li>
+  <li>Design‑system thinking translated from Figma to code</li>
+  <li>Professional layout composition using a grid system</li>
+  <li>Responsive, modular, scalable UI architecture</li>
+  <li>Clean SCSS structure utilising primitive and semantic variables and BEM methodology</li>
+  <li>Effective error handling</li>
+</ul>
+
+</br>
+</br>
 
 <h2>Leaf - example e-commerce website</h2>
 <p>A fully‑designed and engineered multi‑page website for a fictional houseplant retailer, built to demonstrate modular UI architecture, design‑system thinking, and scalable front‑end engineering. This project is based on a detailed Figma design system and implemented using React, Vite, SCSS (BEM), and React Router v6.</p>
@@ -40,6 +89,8 @@
   <li>Effective error handling</li>
 </ul>
 
+</br>
+</br>
 
 <h2>Example React / Typescript form</h2>
 
@@ -81,6 +132,8 @@
   <li>Accessibility considerations such as colour contrast and form label to input association</li>
 </ul>
 
+</br>
+</br>
 
 <h2>Wordle game</h2>
 
