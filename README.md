@@ -41,14 +41,14 @@
   <li>Next.js and typescript full stack website</li>
   <li>Dynamic routing using an id parameter</li>
   <li>Server side API route handling</li>
-  <li>CLient and server components</li>
+  <li>Client and server components</li>
   <li>Zod validation client and server side</li>
   <li>Prisma, a type-safe object relational mapper which maps TypeScript models to PostgreSQL tables</li>
   <li>Design‑system thinking translated from Figma to code</li>
   <li>Professional layout composition using a grid system</li>
   <li>Responsive, modular, scalable UI architecture</li>
   <li>Clean SCSS structure utilising primitive and semantic variables and BEM methodology</li>
-  <li>Effective error handling</li>
+  <li>Effective defensive UI design / resiliant rendering techniques</li>
 </ul>
 
 </br>
