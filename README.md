@@ -8,6 +8,46 @@
 <h1>Featured projects</h1>
 
 </br>
+<h2>Sequoia landing page</h2>
+
+<p>Sequoia is a Next.js landing page for a fictional B2B marketing agency, built to showcase modern frontend practices with Tailwind CSS v4 and dynamic Motion animations. Its React components follow a modular, reusable architecture, with data served from a PostgreSQL database via Prisma for fully dynamic content. TypeScript provides strong type safety throughout, and the interface is designed with accessibility in mind, including semantic HTML, responsive layouts, clear contrast, and full keyboard support.</p>
+
+</br>
+<img src="./assets/Sequoia-landing-page.gif" width="450" alt="Example of Sequoia landing page">
+</br>
+
+<h3>Project repository link:</h3> 
+<p>https://github.com/NorthernWolf22/Sequoia.git</p>
+
+<h3>Tech stack:</h3>
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?logo=framer&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+<h3>Skills demonstrated:</h3> 
+<ul>
+  <li>Next.js with typescript full stack landing page</li>
+  <li>Prisma, a type-safe object relational mapper which maps TypeScript models to PostgreSQL tables</li>
+  <li>Dynamic animations using Motion (formally framer motion)</li>
+  <li>Design‑system thinking translated from Figma to code</li>
+  <li>Professional layout composition using a grid system</li>
+  <li>Responsive, modular, scalable UI architecture</li>
+  <li>Uses modern Tailwind (version 4) utility framework</li>
+  <li>Effective defensive UI design / resiliant rendering techniques</li>
+</ul>
+
+</br>
+</br>
+
 <h2>NCOA example Website</h2>
 
 <p>NCOA is a fictional full‑stack sports club website built with Next.js and TypeScript, showcasing modern UI patterns, accessibility, and scalable component architecture. All site data is stored in a PostgreSQL database and accessed through Prisma ORM, enabling dynamic content rendering across multiple pages. The project uses Zod for both client‑ and server‑side validation, ensuring safe, structured data before it reaches the database. A modular React component system, atomic spacing scale, and strong TypeScript typing support maintainability, consistency, and long‑term scalability. Accessibility is integrated throughout, with semantic HTML, responsive layouts, keyboard support, clear validation feedback, and appropriate colour contrast.</p>
