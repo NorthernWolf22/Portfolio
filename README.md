@@ -13,7 +13,7 @@
 <p>Sequoia is a Next.js landing page for a fictional B2B marketing agency, built to showcase modern frontend practices with Tailwind CSS v4 and dynamic Motion animations. Its React components follow a modular, reusable architecture, with data served from a PostgreSQL database via Prisma for fully dynamic content. TypeScript provides strong type safety throughout, and the interface is designed with accessibility in mind, including semantic HTML, responsive layouts, clear contrast, and full keyboard support.</p>
 
 </br>
-<img src="./assets/sequoia-landing-page.gif" width="450" alt="Example of Sequoia landing page">
+<img src="./assets/Sequoia-landing-page.gif" width="450" alt="Example of Sequoia landing page">
 </br>
 
 <h3>Project repository link:</h3> 
