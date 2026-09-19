@@ -1,6 +1,6 @@
 # Portfolio
 
-<div>Hi, I'm Clare - Front-end developer.</div>
+<div>Hi, I'm Clare - Web developer.</div>
 <p>I specialise in developing scalable, accessible, and maintainable web applications using React with TypeScript, the Next.js framework, Zod for schema validation, and Prisma ORM with PostgreSQL, supported by a robust SCSS architecture. Below is a curated selection of my work.</p>
 
 </br>
