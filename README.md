@@ -1,13 +1,63 @@
 # Portfolio
 
-<div>Hi, I'm Clare - Web developer.</div>
-<p>I specialise in developing scalable, accessible, and maintainable web applications using React with TypeScript, the Next.js framework, Zod for schema validation, and Prisma ORM with PostgreSQL, supported by a robust SCSS architecture. Below is a curated selection of my work.</p>
+<div>Hi, I'm Clare - Full-stack web developer.</div>
+
+</br>
+<p>My work focuses on creating accessible, scalable, and maintainable solutions using React, Typescript and Next.js. Across the projects featured here, you'll find examples of component-driven frontend development, API design and integration, authentication, data modelling, validation strategies, and robust backend architecture built with Node.js, Express, Prisma ORM, and PostgreSQL to create engaging full stack applications.</p>
+
+</br>
+<p>This portfolio highlights a selection of projects that demonstrate both my frontend expertise and growing full stack capabilities.</p>
 
 </br>
 
 <h1>Featured projects</h1>
 
 </br>
+<h2>Task manager</h2>
+
+<p>This repository contains a full-stack task management application built with Next.js, React and TypeScript, with a Node.js and Express REST API backed by PostgreSQL via Prisma ORM and Neon. The application features user registration, JWT authentication and secure, user-specific task management through a responsive, component-based UI. It demonstrates type-safe API integration, Zod form validation, reusable React components, and structured backend architecture with protected routes, middleware and consistent error handling.</p>
+
+</br>
+<img src="./assets/task-manager.gif" width="450" alt="Example of task manager registration">
+</br>
+
+<h3>Project repository link:</h3> 
+<p>https://github.com/NorthernWolf22/task-manager.git</p>
+
+<h3>Tech stack:</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+<h3>Skills demonstrated:</h3> 
+<ul>
+  <li>Built a task management application using Next.js, React, TypeScript, Node.js, Express and PostgreSQL, with a separate frontend and backend</li>
+  <li>Developed configurable React components, including a shared authentication form for registration and login, using typed props, callback functions and controlled inputs</li>
+  <li>Implemented user registration and login with password hashing and JWT authentication, using protected API routes and middleware to restrict task access to the authenticated user</li>
+  <li>Developed an Express REST API for task creation, retrieval, updating and deletion, integrating frontend requests with backend controllers and database operations</li>
+  <li>Used TypeScript types, discriminated unions, type narrowing and utility types to model form data, component props, application state and validation errors across the frontend and backend</li>
+  <li>Implemented Zod schemas for form validation, with inferred TypeScript types, runtime validation and field-specific error handling</li>
+  <li>Designed a PostgreSQL database schema using Prisma ORM, with primary and foreign keys, relationships, unique constraints and Prisma-generated TypeScript types</li>
+  <li>Built form fields using semantic HTML, appropriate ARIA attributes, colour contrast considerations and clear validation and submission feedback</li>
+  <li>Implemented dynamic routes, client-side navigation with `Link`, page metadata and custom not-found handling</li>
+</ul>
+
+</br>
+</br>
+
 <h2>Sequoia landing page</h2>
 
 <p>Sequoia is a Next.js landing page for a fictional B2B marketing agency, built to showcase modern frontend practices with Tailwind CSS v4 and dynamic Motion animations. Its React components follow a modular, reusable architecture, with data served from a PostgreSQL database via Prisma for fully dynamic content. TypeScript provides strong type safety throughout, and the interface is designed with accessibility in mind, including semantic HTML, responsive layouts, clear contrast, and full keyboard support.</p>
@@ -132,7 +182,7 @@
 </br>
 </br>
 
-<h2>Example React / Typescript form</h2>
+<!-- <h2>Example React / Typescript form</h2>
 
 <p>I have developed a responsive React and TypeScript CRUD application using a modular structure with reusable components and state management. Custom type aliases, prop type aliases, function parameter and event type checks ensure application wide type safety.</p>
 
@@ -206,4 +256,4 @@
   <li><p>Keyboard event handling and DOM event listener management.</p></li>
   <li><p>Conditional rendering and dynamic user feedback.</p></li>
   <li><p>Game logic implementation and input validation.</p></li>
-</ul>
+</ul> -->
